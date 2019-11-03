@@ -1,0 +1,47 @@
+# Cooling CLIO
+
+## Before cooling
+2-3 days prior to arrival request that an instrument specialist at Magellan begin pumping down CLIO
+
+##CLIO Overview
+When you arrive you will meet the CLIO electrics rack, the CLIO instrument, and the vacuum pump (which should be attached and still running). Now would also be a good time to locate liquid nitrogen, a hose, and a stinger for the cooling process. There should also be a red and black CLIO toolbox nearby with CLIO related tools. 
+Back of instrument has attach points, front has the entrance slit (dichroic).
+
+##Pre-Cooling
+1) Attach the large large wrapped umbillical cord to the mid back of the instrument, which should be laying on the tray under the instrument. This will be accomplished with two Phillips head screws.
+2) Attach the temperature sensor cord, with many pins, push the cord in and screw it on until it locks
+3) Attach the motor cords (note many of the screws do not work so just attach for now, the will be cabl tied later) 
+  2 motors are on the left (4,5), 4 are on the right (1,2,3,6) each has one end of a cord steaming from the motor itself and the rest of the cord for each comes out of the umbillical. Each end is labeled with the respective number
+  Other Note: these motors can be turned by hand with knob at end of each motor
+4) Attach the fibers which are orange, also steaming from the umbillical. These fibers SHOULD have end caps, remove the end caps and place them in the bag labeled "CLIO Fiber caps". Fibers attach underneath the main section of the instrument on a tan/grey box (left side when facing the back). The black goes on the top and the red goes on the bottom. Ensure these are pushed straight in, if it is difficult to push them into the box then take out and recenter the fiber.
+5) Plug in "UPS" and "Dirty" cords that are attached to the right side to the electronics box, find outlets nearby.
+6) Plug in ethernel cord that is green and hanging from the left side of the electronics rack
+7) Now stand behind the electronics rack and start powering on:
+  Rack Power - middle back
+  Dirty Power - mid-upper right
+  Computer - top
+ 8) You may need to move the fibers from the new computer (bottom) to the top old computer. (new is a backup). Here red is top black is bottom
+ 
+##Cooling 
+1) Cooldown takes <12hr, but should be completed at least 1 day ahead of time, to allow Clio to equilibrate
+2) Leave vacuum pump running.
+3) Turn cold switch CCW two turns to disengage, this switch is on the side with two motors, there is a placard for its function.
+4) Begin cooling outer vessel first with funne l+ canteen or with the stinger directly from the LN2 dewar. You'll need at least 20-30L to complete the cooldown.
+  Note on using the funnel: Prop the funnel up (ex: on a small box) so it is not resting on top of the fill tube; otherwise, the evaporating vapor can only escape back out the funnel, causing LN to splash! The vessel is full when liquid bubbles out of the fill tube (ie: not a strong jet from vapor pressure).
+  Note: At the beginning (above ~200K) the LN evaporates so quickly upon contact with the dewar that the vapor rushing out of the tube will also force out some liquid. This does not mean the vessel is full. Continue filling slowly; you may need to nearly continuously attend to Clio for the first 30min - 1hr of the fill. Once the outer vessel has cooled below ~200K, the evaporation will be slower, and you will be able to completely fill the vessel.
+5) Fill outer vessel again when vapor stops coming out of the tube. (It's OK if the outer and inner vessels are not the same temperature)
+6) Repeat this until outer vessel gets below 150K (This guarantees that the getters are working).
+7) After the outer vessel has reached <150K begin filling the inner vessel.
+8) Fill both the inner and outer vessels. The inner vessel is more likely to sputter/jet than the outer vessel, even below 200K.
+9) Refill once vapor is no longer coming out of the fill tubes.
+10) After an hour of cooling of inner vessel, the cold switch can be closed by turning CW two turns.
+11) Continue filling until both the outer and inner vessels reach <80K.
+12) Disconnect the vacuum pump (as will be eventually described above).
+13) After both the inner and outer vessels are at  <80K, begin pumping on the inner vessel using the solid nitrogen pump.
+14) Put the Solid Nitrogen straw into the inner vessel and tighten lightly (enough to make seal).
+15) Make sure cork stop is secured on top adn attach the transparent hose from the umbilical to the SN2 tube and tighten the hose clamp.
+16) Turn on the solid nitrogen pump on rack. Initially the tube at cryostat will ice up; after 30 minutes it will slowly melt.
+17) Final temperature will be ~55K for the inner vessel and ~80 K for the outer vessel.
+18) On the Lakeshore (same device as displays the temperature), set the heater setpoint to 55K and enable the heater on low.
+
+Note for observers: If the inner dewar is below 60K but hasn't reached 55K by the time the observing night begins, put the temperature setpoint at whatever temperature Clio is at that time. It is better to have the Clio temperature be stable throughout the night than for it to reach 55K.
