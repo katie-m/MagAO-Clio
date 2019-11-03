@@ -6,9 +6,12 @@ Clio2 was upgraded with a new 512x1024 HAWAII-1 array in May 2010. Inquiries sho
 ## Observering Pages
   [Observing](https://github.com/katie-m/MagAO-Clio/tree/master/Observing)
 
+## Data-Analysis Pages
+  [Data-Analysis](https://github.com/katie-m/MagAO-Clio/tree/master/Data-Analysis)
+
 ## Engineering Pages
   [Engineering](https://github.com/katie-m/MagAO-Clio/tree/master/Engineering)
 
-## Trouble-shooting Pages
-  [Trouble-shooting](https://github.com/katie-m/MagAO-Clio/tree/master/Trouble-Shooting)
+## Trouble-Shooting Pages
+  [Trouble-Shooting](https://github.com/katie-m/MagAO-Clio/tree/master/Trouble-Shooting)
 
