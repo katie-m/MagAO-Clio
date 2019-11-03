@@ -4,8 +4,11 @@ Clio is a 1-5 micron imager, coronagraph, and low spectral resolution spectromet
 Clio2 was upgraded with a new 512x1024 HAWAII-1 array in May 2010. Inquiries should be made to Phil Hinz (PI) or Katie Morzinski (instrument scientist).
 
 ## Observering Pages
+  [Observing]
 
 ## Engineering Pages
+  [Engineering](https://github.com/katie-m/MagAO-Clio/tree/master/Engineering)
 
 ## Trouble-shooting Pages
+  [Trouble-shooting]
 
